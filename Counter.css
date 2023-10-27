@@ -1,0 +1,28 @@
+.counterButton{
+    font-size: 25px;
+    background-color: rgb(5, 159, 215);
+    margin:15px;
+    padding:20px;
+    color:white;
+    border-radius:30px;
+}
+
+.counterSpan{
+    font-size: 50px;
+    margin: 10px;
+    padding: 12px;
+}
+.totalCounterSpan{
+    font-size: 50px;
+    color: blue;
+}
+
+.resetButton{
+    font-size: 30px;
+    background-color: rgb(141, 11, 146);
+    margin:10px;
+    padding:10px;
+    color:white;
+    border-radius: 35px;
+    border-width: 5px;
+}

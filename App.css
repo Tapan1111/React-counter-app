@@ -1,0 +1,24 @@
+.App {
+  text-align: center;
+}
+
+.FirstComponent{
+  color: green;
+}
+
+.SecondComponent{
+  color: blue;
+  text-transform: uppercase;
+}
+.ThirdComponent{
+  color: gold;
+  text-transform: uppercase;
+}
+
+.FourthComponent{
+  color: purple;
+  text-transform: uppercase;
+}
+.myName{
+  color: sandybrown;
+}
